@@ -1,0 +1,46 @@
+{
+  "name": "distinctiotempora",
+  "version": "1.0.0",
+  "description": "Alternative syntax for prop types providing both static and runtime type safety, powered by io-ts",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaceyKreiger/distinctiotempora.git"
+  },
+  "author": "EliseoDooley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaceyKreiger/distinctiotempora.git/issues"
+  },
+  "dependencies": {
+    "io-ts": "^0.7.0",
+    "react": "^15.0.0"
+  },
+  "devDependencies": {
+    "@types/mocha": "2.2.38",
+    "@types/node": "7.0.4",
+    "@types/react": "15.0.38",
+    "mocha": "3.2.0",
+    "prettier": "1.5.2",
+    "ts-node": "3.2.0",
+    "tslint": "^4.4.2",
+    "tslint-config-standard": "^4.0.0",
+    "typescript": "^2.5.2"
+  },
+  "tags": [
+    "typescript",
+    "react",
+    "prop-types",
+    "io-ts"
+  ],
+  "keywords": [
+    "sint",
+    "react",
+    "prop-types",
+    "ratione"
+  ]
+}
